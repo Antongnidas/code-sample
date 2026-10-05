@@ -1,6 +1,6 @@
 # 02 — Wealth-management-product litigation and bank risk
 
-**Role:** Undergraduate thesis project, Nankai University (2025). Solo empirical work.
+**Role:** Collaborative research project during my master's studies at Nankai University.
 
 **Research question:** How does wealth-management-product (WMP) litigation intensity — instrumented by a financial-court establishment shock — affect bank sales behaviour and risk-taking in the Chinese banking sector?
 
